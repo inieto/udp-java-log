@@ -1,1 +1,1 @@
-spinup:	java -cp target/classes/ UDPServer
+worker:	java -cp target/classes/ UDPServer
