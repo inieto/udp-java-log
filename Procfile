@@ -1,1 +1,1 @@
-web:	java -cp target/classes/ UDPServer
+spinup:	java -cp target/classes/ UDPServer
